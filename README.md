@@ -23,7 +23,6 @@
     <li>Responsive design using HTML5 and CSS3.</li>
     <li>Interactive elements powered by JavaScript.</li>
     <li>Projects section with detailed descriptions and live demos.</li>
-    <li>Contact form for reaching out.</li>
   </ul>
 
   <h2>Installation:</h2>
